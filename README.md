@@ -2,7 +2,7 @@
 - 👀 I’m interested in front end development
 - 🌱 I’m currently working as react js developer
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me Diiipaak@gmail.com and 8120969849
+- 📫 How to reach me Diiipaak@gmail.com
 
 <!---
 diiipaak/diiipaak is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
