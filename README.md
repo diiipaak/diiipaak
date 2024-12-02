@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @diiipaak
 - 👀 I’m interested in front end development
-- 🌱 I’m currently learning HTML,CSS,JAVASCRIPT,REACT,NODE JS,Type Script
+- 🌱 I’m currently working as react js developer
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me Diiipaak@gmail.com and 8120969849
 
